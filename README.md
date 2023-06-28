@@ -1,6 +1,6 @@
 "# Guichardx2/Readme Profile" 
 
-    public class Profile
+public class Profile
 
       public static void main (String[] args) {
   
