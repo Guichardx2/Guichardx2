@@ -12,10 +12,7 @@ public class Profile
       
         System.out.print("💞️ I’m looking to obtain and improve my knowledge");
       
-        System.out.print("📫 How to reach me:
-      
-          - E-mail: jeancharles.g.guichard@gmail.com
-        
-          - Linkedin: https://www.linkedin.com/in/jean-charles-g-guichard/");   
+        System.out.print("📫 Good to see u here, it's a pleasure :) );
+         
     }
 }
