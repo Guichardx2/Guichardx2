@@ -15,7 +15,7 @@ Sou estudante de Engenharia de Software interessado em ser desenvolvedor Full St
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 ### Bibliotecas e Frameworks
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js) ![Tailwindcss](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap) 
 
 ## Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guichardx2&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
