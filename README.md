@@ -19,7 +19,7 @@ Sou estudante de Engenharia de Software na SATC e sou apaixonado por tecnologia.
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js) ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js) ![Tailwindcss](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss) ![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap) 
 
 ### Ferramentas
-![Visual Stuadio Code](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Visual Stuadio Code](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)  ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql) 
 
 ## Github Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guichardx2&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
