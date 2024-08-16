@@ -24,7 +24,7 @@
 ![Marcação](https://skillicons.dev/icons?i=html,css)
 
 ### Bibliotecas e Frameworks
-![Libs e Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,tailwind,bootstrap)
+![Libs e Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,tailwind,bootstrap)
 
 ### Ferramentas
 ![Ferramentas](https://skillicons.dev/icons?i=vscode,git,figma,mysql,postgres,azure)
