@@ -27,7 +27,7 @@
 ![Libs e Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,tailwind,bootstrap)
 
 ### Ferramentas
-![Ferramentas](https://skillicons.dev/icons?i=vscode,git,figma,mysql,postgres,azure)
+![Ferramentas](https://skillicons.dev/icons?i=vscode,idea,git,figma,mysql,postgres,azure)
 
 <hr>
 <div align="center">
