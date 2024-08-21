@@ -35,7 +35,11 @@
     <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Guichardx2&theme=transparent&bg_color=000&border_color=563c7d&show_icons=true&icon_color=30A3DC&title_color=004DFF&text_color=FFF"/>
 </div>
 
+<img src="https://raw.githubusercontent.com/Guichardx2/Guichardx2/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
-  <h3>Contador de visitas 👋:</h3>
+  <h3>Que bom ver você aqui...👋:</h3>
   <img src="https://profile-counter.glitch.me/Guichardx2/count.svg">
 </div>
