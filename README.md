@@ -31,8 +31,8 @@
 
 <hr>
 <div align="center">
-    <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guichardx2&layout=compact&hide_border=false&border_color=563c7d&title_color=004DFF&text_color=c9d1d9&bg_color=000"/>
-    <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Guichardx2&theme=transparent&bg_color=000&border_color=563c7d&show_icons=true&icon_color=30A3DC&title_color=004DFF&text_color=FFF"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guichardx2&layout=compact&hide_border=false&border_color=FFF&title_color=FFF&text_color=c9d1d9&bg_color=DEG,bc91f1,6b3fa0"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Guichardx2&theme=transparent&bg_color=DEG,6b3fa0,5b14af&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=c9d1d9&custom_title=Guichard²'s+Status"/>
 </div>
 
 <div align="center">
