@@ -20,11 +20,11 @@
 ### Linguagens de Programação
 ![Programação](https://skillicons.dev/icons?i=js,py,java)
 
-### Linguagens de marcação
+### Linguagens de marcação e estilo
 ![Marcação](https://skillicons.dev/icons?i=html,css)
 
 ### Bibliotecas e Frameworks
-![Libs e Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,tailwind,bootstrap)
+![Libs e Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,nestjs,tailwind,bootstrap)
 
 ### Ferramentas
 ![Ferramentas](https://skillicons.dev/icons?i=vscode,idea,git,figma,mysql,postgres,azure)
