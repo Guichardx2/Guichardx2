@@ -1,6 +1,6 @@
 # Jean Guichard²
-## Hello, welcome to my repository!
-> I'm a Software Engineering student with a strong interest in software development, system architecture, and cybersecurity. I have hands-on experience with programming languages such as JavaScript, Python, TypeScript, and Java, as well as HTML5 and CSS3 for markup and styling. I'm actively seeking an opportunity as a full-stack or back-end developer where I can apply my knowledge, grow my technical skills, and contribute to innovative and challenging projects alongside a collaborative team. 
+## 👋 Hello, welcome to my repository!
+>  I'm a Software Engineering student passionate about software development, system architecture, and cybersecurity. I have strong technical skills in JavaScript, TypeScript, and Python, and experience with modern frameworks like React, NestJS, and Node.js. I'm actively seeking new opportunities as a Full-Stack or Back-End Developer where I can apply my skills, grow technically, and contribute to impactful, innovative projects alongside a collaborative and forward-thinking team.
 
 <div align="center">
     <h3>🌐 Connect with me</h3> 
