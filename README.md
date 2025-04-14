@@ -1,10 +1,9 @@
-
 # Jean Guichard²
-## Olá, bem-vindo ao meu repositório!
-> Sou estudante de Engenharia de Software na SATC e sou apaixonado por tecnologia. Busco aperfeiçoar meus conhecimentos rumo ao desenvlvimento Full-Stack, gosto de resolver problemas e buscar por soluções criativas. Tenho conhecimento intermediário em linguagens de programação como Python e JavaScript; conhecimento básico em Java e, intermediário também, em linguagens de marcação: HTML5 e CSS3. 
+## Hello, welcome to my repository!
+> I'm a Software Engineering student with a strong interest in software development, system architecture, and cybersecurity. I have hands-on experience with programming languages such as JavaScript, Python, TypeScript, and Java, as well as HTML5 and CSS3 for markup and styling. I'm actively seeking an opportunity as a full-stack or back-end developer where I can apply my knowledge, grow my technical skills, and contribute to innovative and challenging projects alongside a collaborative team. 
 
-<div align= "center">
-    <h3>Conecte-se comigo</h3> 
+<div align="center">
+    <h3>Connect with me</h3> 
     <a href="https://www.linkedin.com/in/jean-charles-guichardx2/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
@@ -17,25 +16,24 @@
 </div>
 <hr>
 
-### Linguagens de Programação
-![Programação](https://skillicons.dev/icons?i=js,py,java)
+### Programming Languages
+![Programming](https://skillicons.dev/icons?i=js,py,java)
 
-### Linguagens de marcação e estilo
-![Marcação](https://skillicons.dev/icons?i=html,css)
+### Markup & Styling Languages
+![Markup](https://skillicons.dev/icons?i=html,css)
 
-### Bibliotecas e Frameworks
-![Libs e Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,nestjs,tailwind,bootstrap)
+### Libraries & Frameworks
+![Libs and Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,nestjs,tailwind,bootstrap)
 
-### Ferramentas
-![Ferramentas](https://skillicons.dev/icons?i=vscode,idea,git,figma,mysql,postgres,azure)
+### Tools
+![Tools](https://skillicons.dev/icons?i=vscode,idea,git,figma,mysql,postgres,azure)
 
 <hr>
 <div align="center">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guichardx2&layout=compact&hide_border=false&border_color=FFF&title_color=FFF&text_color=c9d1d9&bg_color=DEG,bc91f1,6b3fa0"/>
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Guichardx2&theme=transparent&bg_color=DEG,6b3fa0,5b14af&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=af7bed&custom_title=Guichard²'s+Status"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guichardx2&layout=compact&hide_border=false&theme=dracula"/>
+    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Guichardx2&theme=dracula&custom_title=Guichard²'s+Status"/>
 </div>
 
 <div align="center">
-  <h3>Que bom ver você aqui...👋:</h3>
+  <h3>Glad to see you here...👋</h3>
   <img src="https://profile-counter.glitch.me/Guichardx2/count.svg">
-</div>
