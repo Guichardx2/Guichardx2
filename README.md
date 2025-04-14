@@ -3,7 +3,7 @@
 > I'm a Software Engineering student with a strong interest in software development, system architecture, and cybersecurity. I have hands-on experience with programming languages such as JavaScript, Python, TypeScript, and Java, as well as HTML5 and CSS3 for markup and styling. I'm actively seeking an opportunity as a full-stack or back-end developer where I can apply my knowledge, grow my technical skills, and contribute to innovative and challenging projects alongside a collaborative team. 
 
 <div align="center">
-    <h3>Connect with me</h3> 
+    <h3>🌐 Connect with me</h3> 
     <a href="https://www.linkedin.com/in/jean-charles-guichardx2/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin"/>
     </a>
@@ -16,17 +16,24 @@
 </div>
 <hr>
 
-### Programming Languages
-![Programming](https://skillicons.dev/icons?i=js,py,java)
+### 💡 Programming Languages:
+> #### 🧠 Strong Knowledge
+> ![Strong](https://skillicons.dev/icons?i=ts,js,py)
+    
+> #### 🧩 Familiar With
+> ![Familiar](https://skillicons.dev/icons?i=kotlin,java)
 
-### Markup & Styling Languages
+### 🎨 Markup & Styling Languages
 ![Markup](https://skillicons.dev/icons?i=html,css)
 
-### Libraries & Frameworks
+### 🗄️ Databases
+![Databases](https://skillicons.dev/icons?i=mysql,azure,mongodb)  
+
+### 🧰 Libraries & Frameworks
 ![Libs and Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,nestjs,tailwind,bootstrap)
 
-### Tools
-![Tools](https://skillicons.dev/icons?i=vscode,idea,git,figma,mysql,postgres,azure)
+### ⚙️ Tools
+![Tools](https://skillicons.dev/icons?i=vscode,idea,git,docker,figma)
 
 <hr>
 <div align="center">
