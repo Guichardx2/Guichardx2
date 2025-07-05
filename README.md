@@ -23,17 +23,20 @@
 > #### 🧩 Familiar With
 > ![Familiar](https://skillicons.dev/icons?i=kotlin,java)
 
+> #### 📖 Learning
+> ![Learning](https://skillicons.dev/icons?i=go)
+
 ### 🎨 Markup & Styling Languages
 ![Markup](https://skillicons.dev/icons?i=html,css)
 
 ### 🗄️ Databases
-![Databases](https://skillicons.dev/icons?i=mysql,azure,mongodb)  
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis)  
 
 ### 🧰 Libraries & Frameworks
 ![Libs and Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,vite,nestjs,tailwind,bootstrap)
 
 ### ⚙️ Tools
-![Tools](https://skillicons.dev/icons?i=vscode,idea,git,docker,figma)
+![Tools](https://skillicons.dev/icons?i=vscode,idea,git,figma,docker,nginx)
 
 <hr>
 <div align="center">
